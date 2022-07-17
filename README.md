@@ -1,6 +1,6 @@
 # OpenFoodFacts
 
-## Presenatation
+## Presentation
 
 In this project, we are working for the city of Seattle and with its open data. The goal is to facilitate the building energy statement generation for the non-residential buildings.
 
